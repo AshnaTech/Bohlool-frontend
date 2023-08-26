@@ -1,0 +1,1 @@
+import{d as e,c,a as s,o as n,_ as a}from"./index-914db97f.js";const t={class:"h-screen w-screen bg-[#090808] z-10]"},m=e({__name:"AccountScreen",setup(o){return(r,_)=>(n(),c("div",t,[s(a,{navItemActive:"account",class:"visible sm:hidden z-40"})]))}});export{m as default};
