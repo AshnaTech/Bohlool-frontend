@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dir-rtl {
+  direction: rtl;
+}
+
+.filter-active {
+  filter: invert(11%) sepia(83%) saturate(7417%) hue-rotate(354deg) brightness(91%) contrast(99%);
+}
+
+@font-face {
+  font-family: entezar;
+  src: url(../assets/fonts/entezar/EntezareZohoor.ttf);
+}
+
+@font-face {
+  font-family: vazirmatn;
+  src: url(./fonts/vazirmatn/Vazirmatn-FD-Medium.woff2);
+}
