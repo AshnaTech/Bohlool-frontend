@@ -1,1 +1,0 @@
-import{d as e,c as s,a as c,o as a,_ as n}from"./index-cc739728.js";const t={class:"h-screen w-screen bg-[#090808] z-10]"},i=e({__name:"ScheduleScreen",setup(o){return(r,_)=>(a(),s("div",t,[c(n,{navItemActive:"schedule",class:"visible sm:hidden z-40"})]))}});export{i as default};
